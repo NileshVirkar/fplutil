@@ -12,7 +12,7 @@ Download the latest release from the
 upon so to download the source use:
 
 ~~~{.sh}
-    git clone --recursive https://github.com/google/fplutil.git
+    git clone --recursive https://github.com/NileshVirkar/fplutil.git
 ~~~
 
    * Discuss fplutil with other developers and users on the

@@ -31,7 +31,7 @@ Goto fplutil's [landing page][] for documentation.
 **Important**: fplutil uses submodules to reference other components it depends
 upon so to download the source use:
 
-    git clone --recursive https://github.com/google/fplutil.git
+    git clone --recursive https://github.com/NileshVirkar/fplutil.git
 
 To contribute to this project see [CONTRIBUTING][].
 
